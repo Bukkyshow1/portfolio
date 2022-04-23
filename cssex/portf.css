@@ -1,0 +1,84 @@
+			body{
+				background-color: black;
+				color: white;
+			}
+			
+			
+			#logo{
+				width: 120px;
+				margin-left: 50px;
+			}
+
+			.header{
+				position: sticky;
+				top: 0px;
+				z-index: 2;
+			}
+
+			.nav-link{
+				color: gold;
+			}
+
+			.banner{
+				width: 800px;
+				height: 400px;
+				background-image: url('../images/setup.jpg');
+				opacity: 0.4;
+				background-size: cover;
+				position: relative;
+			}
+
+			#pic{
+				width: 250px;
+			}
+
+			.over{
+				position: absolute;
+				top: 320px;
+				right: 160px;
+				text-align: center;
+				color: white;
+			}
+
+			.over h2{
+				font-size: 45px;
+			}
+			.picinfo, .about{
+				text-align: center;
+			}
+
+			.back, .front{
+				background-color: #545454;
+			}
+
+			.progress-bar{
+				color: gold;
+			}
+
+			h5{
+				padding-top: 10px;
+			}
+			
+			
+			h2{
+				text-align: center;
+			}
+
+
+
+			i{
+				font-size: 35px;
+				color: gold;
+				margin-top: 20px;
+				padding-right: 20px;
+				padding-bottom: 20px;
+			}
+
+			.contact{
+				border: 2px solid grey;
+			}
+
+			#msg{
+				rows: 5;
+				cols: 20;
+			}
